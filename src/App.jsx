@@ -44,7 +44,7 @@ export default function LandingPage() {
         <section className="w-full py-20 bg-gradient-to-r from-teal-400 to-purple-700 text-white text-center">
           <div className="container mx-auto px-4 md:px-6">
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
-              ¡Bienvenida a Learning Dreamers!
+             The first class with teacher Vane
             </h1>
             <p className="mt-6 text-lg md:text-xl max-w-3xl mx-auto">
               Una plataforma dedicada a mujeres que buscan aprender inglés y migrar a los EE.UU. como Au Pairs.
